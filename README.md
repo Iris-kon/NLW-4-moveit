@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# About
 
-## Getting Started
+A Study project made for traning the developement of a aplication With NextJs with the objective of stimulating desk workers to do simple workouts.
 
-First, run the development server:
+The application was developed with Next applying the following concepts:
+<ul>
+  <li>Game EXP Logic</li>
+  <li>API Root</li>
+  <li>Fake Server</li>
+  <li>Cookies</li>
+</ul>
 
-```bash
-npm run dev
-# or
-yarn dev
+The project was developed in Next Level week 4 from Rocketseat.
+
+## Screens
+
+<b>Home:</b>
+
+![home](https://github.com/Thiago-kon/NLW-4-moveit/blob/main/public/design/home.PNG)
+
+<b>Challenge:</b>
+![challenge](https://github.com/Thiago-kon/NLW-4-moveit/blob/main/public/design/challenge.PNG)
+
+## Used Technologies
+The project utilises the following technologies:
+<ul>
+  <li>ReactJS</li>
+  <li>NextJS</li>
+  <li>TypeScript</li>
+  <li>CSS Modules</li>
+  <li>JS Cookies</li>
+</ul>
+
+## Run project
+Copy the project to the desired folder with the following command:
+
+### `git clone https://github.com/Thiago-kon/NLW-4-moveit`
+
+Install dependences with:
+
+### `yarn install` or `npm install`
+
+after, run the project on localhost:
+
+```
+# Iniciate App with:
+$ yarn dev or npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
