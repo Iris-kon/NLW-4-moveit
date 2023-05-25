@@ -1,6 +1,8 @@
 # About
 
-A Study project made for traning the developement of a aplication With NextJs with the objective of stimulating desk workers to do simple workouts.
+A Study project made for traning the developement of a aplication With NextJs with the objective of stimulating users to do simple workouts by giving the exp for completing workouts challeges.
+
+[Access the app](https://646f1c3571d0811b2635b6cc--jazzy-cassata-5fe727.netlify.app)
 
 The application was developed with Next applying the following concepts:
 <ul>
